@@ -29,3 +29,7 @@ Dessa forma o container deve ficar rodando já esperando requisições. Para exe
 ```bash
 curl -X GET http://172.17.0.2:8080?zipcode=11703100
 ```
+
+Também é possivel ver aqui:
+
+https://temperatures-bc42p5mbda-uc.a.run.app/?zipcode=<NUMERO DO CEP>
